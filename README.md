@@ -1,1 +1,1 @@
-https://www.figma.com/design/74KXEfrdqzEKjLX4ppyxPE/H%E1%BB%86-TH%E1%BB%90NG-NH%C3%80-TR%E1%BB%8C-SINH-VI%C3%8AN-%C4%90%E1%BA%A0I-H%E1%BB%8CC-X%C3%82Y-D%E1%BB%B0NG-H%C3%80-N%E1%BB%98I?node-id=2153-1620&t=dZEvzyBwqccNhoRp-1
+link dự án : https://www.figma.com/proto/74KXEfrdqzEKjLX4ppyxPE/H%E1%BB%86-TH%E1%BB%90NG-NH%C3%80-TR%E1%BB%8C-SINH-VI%C3%8AN-%C4%90%E1%BA%A0I-H%E1%BB%8CC-X%C3%82Y-D%E1%BB%B0NG-H%C3%80-N%E1%BB%98I?node-id=2153-1620&t=dZEvzyBwqccNhoRp-1
